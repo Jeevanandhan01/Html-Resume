@@ -29,7 +29,8 @@ To view Jeevanandhan's resume, follow these steps:
 2. Open the `index.html` file in your web browser.
 
 ## Contact
-For any inquiries or to get in touch with Jeevanandhan, you can reach out via email at jeeva@example.com.
+For any inquiries or to get in touch with Jeevanandhan, you can reach out via email at jeevanandhanofficial@gmail.com
+
 
 ## Links
 - [Contact](./assets/about.html)
